@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" width="100%" height="100%">
+  <defs>
+    <!-- Crisp rendering -->
+  </defs>
+
+  <!-- ========================================== -->
+  <!-- 1. TOP LEAVES                              -->
+  <!-- ========================================== -->
+  <!-- Left Small Lime Leaf -->
+  <path d="M 425 118 C 405 85 432 50 452 40 C 458 68 448 102 425 118 Z" fill="#85c441" />
+  
+  <!-- Right Large Forest Green Leaf -->
+  <path d="M 452 118 C 465 60 515 20 558 20 C 562 70 532 118 460 118 Z" fill="#006837" />
+  <!-- Leaf Highlight / Secondary Tone -->
+  <path d="M 452 118 C 478 72 522 36 558 20 C 546 56 508 100 460 118 Z" fill="#1b8e45" opacity="0.65" />
+
+  <!-- ========================================== -->
+  <!-- 2. APPLE / GO EMBLEM POLYGONS              -->
+  <!-- ========================================== -->
+
+  <!-- RED 'G' (LEFT HEMISPHERE) -->
+  <!-- Top left shoulder dark -->
+  <polygon points="370,118 456,118 402,208 308,208" fill="#7a0f16" />
+  <!-- Top center ruby -->
+  <polygon points="456,118 534,118 480,208 402,208" fill="#a4151b" />
+  <!-- Outer upper-left corner facet -->
+  <polygon points="308,208 370,118 402,208" fill="#d31f26" />
+  <!-- Left middle peak facet (bright red) -->
+  <polygon points="262,252 308,208 402,208 350,344" fill="#e52329" />
+  <!-- Left mid-lower edge (dark red) -->
+  <polygon points="262,252 350,344 314,386" fill="#9e161c" />
+  <!-- Bottom left corner (maroon) -->
+  <polygon points="314,386 350,344 406,456 348,456" fill="#7c1217" />
+  <!-- Bottom left base (scarlet) -->
+  <polygon points="348,456 406,456 476,456 428,344" fill="#cb1d24" />
+  <!-- Inner central red facet -->
+  <polygon points="402,208 480,208 428,344 350,344" fill="#ed1c24" />
+  <!-- Inner 'G' spur front ribbon face -->
+  <polygon points="428,344 476,456 532,344 480,344" fill="#eb232a" />
+  <!-- Inner 'G' spur shadow fold underneath -->
+  <polygon points="466,282 522,282 532,344 480,344" fill="#841217" />
+  <!-- Inner 'G' spur upper facet -->
+  <polygon points="428,344 466,282 522,282 480,344" fill="#af171f" />
+
+  <!-- GREEN 'O' (RIGHT HEMISPHERE) -->
+  <!-- Top inner lime-green facet -->
+  <polygon points="562,118 668,118 618,208 518,208" fill="#72be37" />
+  <!-- Top outer forest green facet -->
+  <polygon points="668,118 764,208 618,208" fill="#2c8032" />
+  <!-- Middle inner dark green facet -->
+  <polygon points="618,208 764,208 672,344 576,344" fill="#146028" />
+  <!-- Far right outer peak facet -->
+  <polygon points="764,208 822,322 744,344 672,344" fill="#58a82d" />
+  <!-- Right edge bright facet -->
+  <polygon points="764,208 822,322 672,344" fill="#69b533" />
+  <!-- Bottom right outer corner -->
+  <polygon points="822,322 764,456 684,456 744,344" fill="#1d6b2c" />
+  <!-- Bottom flat base right (lime) -->
+  <polygon points="684,456 604,456 518,456 576,344" fill="#72bd38" />
+  <!-- Bottom right center facet -->
+  <polygon points="744,344 684,456 576,344" fill="#4fa12b" />
+  <!-- Bottom inner lime highlight -->
+  <polygon points="576,344 518,456 492,396" fill="#88cb3d" />
+
+  <!-- ========================================== -->
+  <!-- 3. TYPOGRAPHY                              -->
+  <!-- ========================================== -->
+
+  <!-- "GREEN" in Dark Emerald Green -->
+  <text x="70" y="546" font-family="'Arial Black', 'Trebuchet MS', 'Segoe UI', Arial, sans-serif" font-weight="900" font-size="94" fill="#00592e" letter-spacing="-2">GREEN</text>
+  
+  <!-- "ORGANIC" in Lime Green -->
+  <text x="442" y="546" font-family="'Arial Black', 'Trebuchet MS', 'Segoe UI', Arial, sans-serif" font-weight="900" font-size="94" fill="#78be20" letter-spacing="-2">ORGANIC</text>
+
+  <!-- Left horizontal rule -->
+  <line x1="14" y1="602" x2="216" y2="602" stroke="#000000" stroke-width="3.5" stroke-linecap="round" />
+
+  <!-- "Food Investments" in Clean Sans/Serif Title Text -->
+  <text x="500" y="612" text-anchor="middle" font-family="'Segoe UI', Arial, 'Helvetica Neue', sans-serif" font-weight="500" font-size="46" fill="#000000" letter-spacing="1.5">Food Investments</text>
+
+  <!-- Right horizontal rule -->
+  <line x1="782" y1="602" x2="986" y2="602" stroke="#000000" stroke-width="3.5" stroke-linecap="round" />
+</svg>

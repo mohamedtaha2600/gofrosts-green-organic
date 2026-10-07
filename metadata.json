@@ -1,0 +1,8 @@
+{
+  "name": "Remix GoFrosts - Green Organic | IQF Frozen Foods Processing Factory",
+  "description": "Enterprise platform for GoFrosts (Green Organic) - Egyptian IQF frozen fruits and vegetables processing factory in Samanoud, Gharbia. Built to global food safety standards (BRCGS, ISO 22000, US FDA roadmap).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
